@@ -1,0 +1,10 @@
+corpora.append("Kaggle allows user to find and publish data sets, explore and build models in a web-based data-science environment, work with other data scientists and machine learning engineers, and enter competitions to solve data science challenge.")
+corpora.append("GeeksforGeeks is a provide a variety of services to help programmers to learn many programming languages easily. It contains well written, well thought and well explained computer science and programming articles.")
+corpora.append("Stack Overflow is a question and answer website for professional and enthusiast programmers. It features as a forum on a wide range of topics in computer programming especially to help programmers solve problem and debug their program.")
+corpora.append("W3Schools is a optimized for learning, testing, and training especially in web development field. User can try to live code and see the result while learning.")
+corpora.append("GitHub is a internet hosting service for software development and version control. It provides the distributed version control including access control bug tracking, software feature requests, task management, and others. Work together easily.")
+corpora.append("Netlify is a remote-first cloud computing company that offers a development platform that includes build, deploy, and serverless backend services for web applications and dynamic websites.")
+
+PARAGRAPH
+=========
+Natural Language Programming (NLP) refers to the field of computer science that focuses on enabling computers to understand and process human language in a way that is similar to how humans do. NLP involves developing algorithms and techniques that allow computers to interpret and analyze text or speech data, enabling them to perform tasks such as language translation, sentiment analysis, and question answering. By leveraging machine learning and artificial intelligence, NLP aims to bridge the gap between human language and computer understanding, opening up possibilities for more intuitive and efficient human-computer interactions.

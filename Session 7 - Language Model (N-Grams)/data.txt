@@ -1,0 +1,7 @@
+corpus = [
+    "Here's Jonathan in his red shirt in the room.",
+    "Jonathan was wearing yellow pants taken from the room.",
+    "Jonathan was sitting in the room daydreaming."
+]
+
+query = "Jonathan is wearing a red shirt and yellow pants in the room."
